@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import UserName from '../userInfo/userName/userName'
-import UserCity from '../userInfo/userCity/userCity'
+import { UserName } from '@react-components/user-info/userName/userName'
+import { UserCity } from '@react-components/user-info/userCity/userCity'
 
 class ExampleOne extends Component {
   render() {

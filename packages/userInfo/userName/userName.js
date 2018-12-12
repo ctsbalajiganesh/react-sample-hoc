@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { withUser } from '../../shared/withUser/withUser'
+import { withUser } from '@react-components/shared-components/withUser'
 
 export const UserName = props => (
   <div className="user-container">
